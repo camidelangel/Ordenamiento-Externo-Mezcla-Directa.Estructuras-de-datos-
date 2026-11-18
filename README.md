@@ -93,6 +93,9 @@ comparación y escritura de datos mediante archivos de texto.
 ## Datos
 
 Camila amor del angel cervantes 
+
 Estructura de datos
+
 Víctor Hugo Vásquez Herrera
+
 sistemas computacionales 3ro"B"
